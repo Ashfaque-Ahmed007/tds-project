@@ -1,7 +1,7 @@
 {
-  "prompt": "A realistic urban city scene covered in thick smog, with faint ghost-like human silhouettes floating in the air, representing lives lost due to air pollution, people walking unaware beneath them, dark and somber mood, cinematic lighting, highly detailed, symbolic and emotional, no charts, no graphs, no text, no infographic style",
-  "model": "Nano Banana 2",
-  "dataset_name": "Air Pollution Mortality - Our World in Data",
-  "dataset_url": "https://ourworldindata.org/air-pollution",
-  "insight": "Air pollution silently kills millions every year"
+  "prompt": "A vast, monochromatic landscape split into two distinct halves. The left side is a dense, chaotic tangle of grey, angular skyscrapers and highways, stretching endlessly. The right side is a serene, open field of wildflowers, with a single winding dirt path leading toward a distant, clear horizon. The composition is panoramic, 16:9, ultra-detailed, cinematic lighting. No text, no labels, no charts, no graphs, no legend, no axes. --ar 16:9 --style raw --stylize 250 --no text, labels, charts, graphs, legend, axes, infographic",
+  "model": "Midjourney v6.1",
+  "dataset_name": "Global Land Cover / Urbanization Rate (FAO)",
+  "dataset_url": "https://www.fao.org/faostat/en/#data/LC",
+  "insight": "Between 2000 and 2020, the area of urban land cover increased by over 100%, while natural grassland and forest cover decreased by nearly 15% in the same regions."
 }
