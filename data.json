@@ -1,0 +1,7 @@
+{
+  "prompt": "A realistic urban city scene covered in thick smog, with faint ghost-like human silhouettes floating in the air, representing lives lost due to air pollution, people walking unaware beneath them, dark and somber mood, cinematic lighting, highly detailed, symbolic and emotional, no charts, no graphs, no text, no infographic style",
+  "model": "Nano Banana 2",
+  "dataset_name": "Air Pollution Mortality - Our World in Data",
+  "dataset_url": "https://ourworldindata.org/air-pollution",
+  "insight": "Air pollution silently kills millions every year"
+}
